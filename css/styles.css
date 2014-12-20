@@ -2,7 +2,7 @@ header {
       text-align: center;
       background: url('../img/background.png');
       background-size: cover;
-      color: white;
+      color: rgb(144, 149, 208);
     }
     a {
       color: white;
@@ -11,14 +11,15 @@ header {
       font-size: 70px;
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid pink;
-      border-radius: 20px;
-    }
+margin: 40px 0px 0px 0px;
+border: 7px;
+border-radius: 20px;
+visibility: hidden;
+}
     ul {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
-    }
+padding: 10px;
+background: rgba(11, 1, 1, 0.5);
+}
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
